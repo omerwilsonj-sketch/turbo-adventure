@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0a0e1a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="VantageFit">
+  <link rel="manifest" href="/manifest.json">
+
+  <!-- الأداء: التحميل المسبق للخطوط -->
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;600;700;800&display=swap" as="style">
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+  <link rel="dns-prefetch" href="https://buy.stripe.com">
+
+  <!-- SEO Meta Tags -->
+  <title>VantageFit | لياقة النخبة للمحترفين المشغولين — تدريب الكفاءة أولاً في 30 دقيقة</title>
+  <meta name="description" content="استعد صحتك مع إطار العمل للياقة البدنية 'الكفاءة أولاً' من VantageFit. تغذية قائمة على البيانات، تمارين عالية الكثافة لمدة 30 دقيقة، ومساءلة رقمية على مدار الساعة.">
+  <meta name="keywords" content="لياقة للمحترفين, تمرين 30 دقيقة, تدريب عالي الكثافة, لياقة تنفيذية, تدريب لياقة أونلاين, تتبع الماكروز, تدريب المساءلة">
+  <meta name="author" content="VantageFit">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://vantagefit.cto.ai/index-ar.html">
+  
+  <!-- Open Graph / Social -->
+  <meta property="og:title" content="VantageFit | لياقة النخبة للمحترفين المشغولين">
+  <meta property="og:description" content="تمارين لمدة 30 دقيقة. تغذية قائمة على البيانات. نتائج حقيقية. مصمم للمحترفين ذوي الأداء العالي.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://vantagefit.cto.ai/index-ar.html">
+  <meta property="og:image" content="https://vantagefit.cto.ai/assets/og-image.png">
+  <meta property="og:site_name" content="VantageFit">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="VantageFit | لياقة النخبة للمحترفين المشغولين">
+  <meta name="twitter:description" content="تمارين لمدة 30 دقيقة. تغذية قائمة على البيانات. نتائج حقيقية.">
+  <meta name="twitter:image" content="https://vantagefit.cto.ai/assets/og-image.png">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💪</text></svg>">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body { font-family: 'Noto Sans Arabic', 'Inter', system-ui, sans-serif; }
+  </style>
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="nav" aria-label="التنقل الرئيسي">
+    <div class="container nav-inner">
+      <a href="index-ar.html" class="logo" aria-label="فانتاج فيت الرئيسية">
+        <span class="logo-icon">◆</span>
+        <span class="logo-text">VantageFit</span>
+      </a>
+      <ul class="nav-links" role="menubar">
+        <li role="none"><a href="#how-it-works" role="menuitem">كيف يعمل</a></li>
+        <li role="none"><a href="#app" role="menuitem">التطبيق</a></li>
+        <li role="none"><a href="#results" role="menuitem">النتائج</a></li>
+        <li role="none"><a href="#pricing" role="menuitem">الأسعار</a></li>
+        <li role="none"><a href="#faq" role="menuitem">الأسئلة الشائعة</a></li>
+      </ul>
+      <div class="lang-selector">
+        <button class="lang-btn" aria-haspopup="listbox" aria-expanded="false">
+          🌐 العربية
+        </button>
+        <ul class="lang-dropdown" role="listbox">
+          <li><a href="index.html">English</a></li>
+          <li><a href="index-es.html">Español</a></li>
+          <li><a href="index-fr.html">Français</a></li>
+          <li><a href="index-de.html">Deutsch</a></li>
+          <li><a href="index-pt.html">Português</a></li>
+          <li><a href="index-zh.html">中文 (Mandarin)</a></li>
+          <li><a href="index-ar.html">العربية (Arabic)</a></li>
+          <li><a href="index-hi.html">हिन्दी (Hindi)</a></li>
+        </ul>
+      </div>
+      <a href="#pricing" class="btn btn-primary nav-cta">ابدأ تحولك الآن</a>
+      <button class="mobile-menu-toggle" aria-label="تبديل القائمة" aria-expanded="false" aria-controls="mobile-menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div id="mobile-menu" class="mobile-menu" hidden>
+      <a href="#how-it-works">كيف يعمل</a>
+      <a href="#app">التطبيق</a>
+      <a href="#results">النتائج</a>
+      <a href="#pricing">الأسعار</a>
+      <a href="#faq">الأسئلة الشائعة</a>
+      <div class="mobile-lang-selector">
+        <a href="index.html">EN</a>
+        <a href="index-es.html">ES</a>
+        <a href="index-fr.html">FR</a>
+        <a href="index-de.html">DE</a>
+        <a href="index-pt.html">PT</a>
+        <a href="index-zh.html">ZH</a>
+        <a href="index-ar.html">AR</a>
+        <a href="index-hi.html">HI</a>
+      </div>
+      <a href="#pricing" class="btn btn-primary">ابدأ تحولك الآن</a>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <header class="hero">
+    <div class="hero-bg" aria-hidden="true"></div>
+    <div class="container">
+      <div class="hero-grid">
+        <div class="hero-content">
+          <div class="badge">
+            <span class="badge-dot"></span>
+            موثوق من قبل أكثر من 500 محترف مشغول
+          </div>
+          <h1 class="hero-title">لياقة النخبة للمحترفين الذين <em>"ليس لديهم وقت للتدريب"</em></h1>
+          <p class="hero-subtitle">استعد صحتك من خلال إطار عملنا <strong>الكفاءة أولاً</strong> — تغذية قائمة على البيانات، تمارين عالية الكثافة لمدة 30 دقيقة، ومساءلة رقمية على مدار الساعة.</p>
+          <div class="hero-ctas">
+            <a href="#pricing" class="btn btn-primary btn-large">ابدأ تحولك في 90 يوماً</a>
+            <a href="#how-it-works" class="btn btn-secondary btn-large">اكتشف كيف يعمل</a>
+          </div>
+          <div class="hero-trust">
+            <div class="trust-stars">★★★★★</div>
+            <p class="trust-text"><strong>4.9/5</strong> من 312 عضواً &middot; متوسط 6 كجم فقدان وزن في 90 يوماً</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- How It Works -->
+  <section id="how-it-works" class="section section-dark">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-label">إطار العمل</span>
+        <h2 class="section-title">ثلاث ركائز. تحول واحد.</h2>
+        <p class="section-subtitle">تم تصميم نظامنا "الكفاءة أولاً" خصيصاً للمحترفين الذين يطلبون النتائج دون التضحية بزخم حياتهم المهنية.</p>
+      </div>
+      <div class="pillars-grid">
+        <article class="pillar-card">
+          <div class="pillar-number">01</div>
+          <h3 class="pillar-title">تمارين عالية الكثافة لمدة 30 دقيقة</h3>
+          <p class="pillar-text">دوائر HIIT وقوة مدعومة علمياً ومصممة لتحقيق أقصى استجابة أيضية في أقل وقت ممكن.</p>
+        </article>
+        <article class="pillar-card">
+          <div class="pillar-number">02</div>
+          <h3 class="pillar-title">تغذية قائمة على البيانات</h3>
+          <p class="pillar-text">أهداف دقيقة للماكروز بناءً على تكوين جسمك وأهدافك ونمط حياتك.</p>
+        </article>
+        <article class="pillar-card">
+          <div class="pillar-number">03</div>
+          <h3 class="pillar-title">مساءلة رقمية 24/7</h3>
+          <p class="pillar-text">ابقَ على المسار الصحيح مع جلسات تدريب جماعية أسبوعية ورسائل فورية وتتبع التقدم.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing -->
+  <section id="pricing" class="section section-dark">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">استثمر في أدائك</h2>
+      </div>
+      <div class="pricing-grid">
+        <article class="pricing-card">
+          <div class="pricing-header">
+            <h3 class="pricing-name">VantageFit Go</h3>
+            <div class="pricing-price">
+              <span class="price-currency">£</span>
+              <span class="price-amount">14.99</span>
+              <span class="price-period">/شهرياً</span>
+            </div>
+          </div>
+          <a href="https://buy.stripe.com/5kQeVd2hN1n79gt7Emcwg03" class="btn btn-outline btn-full">ابدأ الآن</a>
+        </article>
+        <article class="pricing-card pricing-card-featured">
+          <div class="pricing-header">
+            <h3 class="pricing-name">VantageFit Core</h3>
+            <div class="pricing-price">
+              <span class="price-currency">£</span>
+              <span class="price-amount">49</span>
+              <span class="price-period">/شهرياً</span>
+            </div>
+          </div>
+          <a href="https://buy.stripe.com/7sYdR98Gb2rb64h4sacwg05" class="btn btn-primary btn-full">اشترك الآن</a>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <span class="logo-text">VantageFit</span>
+          <p class="footer-tagline">لياقة الكفاءة أولاً للمحترفين ذوي الأداء العالي.</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 VantageFit. جميع الحقوق محفوظة.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>
