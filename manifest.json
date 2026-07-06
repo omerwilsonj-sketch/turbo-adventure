@@ -1,6 +1,6 @@
 {
-  "name": "VantageFit — Elite Fitness for Busy Professionals",
-  "short_name": "VantageFit",
+  "name": "Echelon Form — Elite Fitness for Busy Professionals",
+  "short_name": "Echelon Form",
   "description": "Efficiency-First fitness framework. Data-driven nutrition, 30-minute HIIT workouts, and 24/7 digital accountability.",
   "start_url": "/",
   "display": "standalone",
@@ -26,11 +26,11 @@
   "categories": ["health", "fitness", "lifestyle"],
   "screenshots": [
     {
-      "src": "https://vantagefit.cto.ai/assets/og-image.png",
+      "src": "https://echelonform.cto.ai/assets/og-image.png",
       "sizes": "1536x1024",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "VantageFit Landing Page"
+      "label": "Echelon Form Landing Page"
     }
   ]
 }

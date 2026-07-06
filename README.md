@@ -1,4 +1,4 @@
-# VantageFit
+# Echelon Form
 
 > **Efficiency-First fitness for busy professionals.**
 > Data-driven nutrition, 30-minute high-intensity workouts, and 24/7 digital accountability.
@@ -7,7 +7,7 @@
 
 ## 🚀 Project Overview
 
-VantageFit is a premium fitness platform targeting high-performing professionals who want elite health results on a compressed schedule. The platform consists of:
+Echelon Form is a premium fitness platform targeting high-performing professionals who want elite health results on a compressed schedule. The platform consists of:
 
 1. **Landing Page** — High-converting marketing site with Stripe checkout integration
 2. **Mobile App** — React Native/Expo app with workout tracking, nutrition logging, and coaching chat
@@ -19,7 +19,7 @@ VantageFit is a premium fitness platform targeting high-performing professionals
 ## 📁 Project Structure
 
 ```
-vantagefit/
+echelonform/
 ├── landing-page/           # Static marketing website
 │   ├── index.html          # Main landing page (SEO-optimized)
 │   ├── styles.css          # Complete stylesheet with responsive breakpoints
@@ -52,8 +52,8 @@ The landing page is a **fully static site** (HTML + CSS + JS) with zero build st
 1. Push the `landing-page/` directory to a GitHub repository.
 2. Go to **Settings → Pages** in the repo.
 3. Select **Deploy from a branch**, choose `main`, and set the folder to `/ (root)`.
-4. Your site will be live at `https://<username>.github.io/vantagefit-landing/`.
-5. **Note:** If your repo is named `vantagefit.github.io`, it deploys to the root domain.
+4. Your site will be live at `https://<username>.github.io/echelonform-landing/`.
+5. **Note:** If your repo is named `echelonform.github.io`, it deploys to the root domain.
 
 ### Option 2: Vercel
 
@@ -95,8 +95,8 @@ The landing page is a **fully static site** (HTML + CSS + JS) with zero build st
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/<owner>/vantagefit-app.git
-cd vantagefit-app
+git clone https://github.com/<owner>/echelonform-app.git
+cd echelonform-app
 npm install
 ```
 
@@ -158,7 +158,7 @@ See `docs/stripe_integration.md` for webhook setup and subscription tier mapping
 
 ## 🌐 Multilingual Support
 
-VantageFit is a global platform. The landing page and core documentation are available in the following languages:
+Echelon Form is a global platform. The landing page and core documentation are available in the following languages:
 
 - **English** (`index.html`, `framework.md`, `ads_strategy.md`, `business_plan.md`, `campaign_launch_guide.md`)
 - **Español** (`index-es.html`, `framework-es.md`, `ads_strategy-es.md`, `business_plan-es.md`, `campaign_launch_guide-es.md`)
@@ -238,4 +238,4 @@ The language switcher is integrated into the navigation bar of each landing page
 
 ## 📄 License
 
-© 2026 VantageFit. All rights reserved.
+© 2026 Echelon Form. All rights reserved.

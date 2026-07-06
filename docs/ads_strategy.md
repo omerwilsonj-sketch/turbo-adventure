@@ -1,4 +1,4 @@
-# VantageFit YouTube Ads Strategy
+# Echelon Form YouTube Ads Strategy
 > **Objective:** Drive sign-ups across all three tiers (Go, Core, VIP) by reaching busy professionals and fitness enthusiasts through targeted YouTube advertising.
 
 ---
@@ -75,7 +75,7 @@
 > *"Studies show that burnout and poor health cost executives 40% more in lost productivity. Yet 73% of professionals say 'no time' is their #1 barrier to fitness."*
 
 **[0:15–0:25] Solution Introduction**
-> *"VantageFit built the solution — 30-minute HIIT workouts designed by performance coaches, data-driven nutrition guides, and weekly accountability check-ins. Everything fits into your calendar. Everything respects your time."*
+> *"Echelon Form built the solution — 30-minute HIIT workouts designed by performance coaches, data-driven nutrition guides, and weekly accountability check-ins. Everything fits into your calendar. Everything respects your time."*
 
 **[0:25–0:30] Offer & CTA**
 > *"Join 500+ busy professionals who trained smarter. Get full access to the app, coaching, and community for just $49 a month. Tap below — your future self will thank you."*
@@ -94,7 +94,7 @@
 > *"You don't need another generic fitness app. You need a system built around your schedule, your goals, and your ambition."*
 
 **[0:05–0:20] Credibility & Authority**
-> *"VantageFit's VIP Coaching is for high-performers who want elite results — without spending time figuring out how to get them. You get a dedicated performance coach who writes your custom macros, designs your program week by week, and keeps you accountable with weekly 1-on-1 video calls."*
+> *"Echelon Form's VIP Coaching is for high-performers who want elite results — without spending time figuring out how to get them. You get a dedicated performance coach who writes your custom macros, designs your program week by week, and keeps you accountable with weekly 1-on-1 video calls."*
 
 **[0:20–0:35] Transformation Story (Hypothetical Testimonial Style)**
 > *"Our VIP clients are Managing Directors at Goldman, Partners at McKinsey, founders running $10M businesses. They lost an average of 12 lbs in 90 days — while working 60+ hour weeks. Not because they found time. Because they stopped optimizing their health alone."*
@@ -116,7 +116,7 @@
 > *"What if 30 minutes a day was all you needed to transform your body?"*
 
 **[0:05–0:15] Value Demonstration**
-> *"VantageFit's Efficiency-First framework gives you science-backed HIIT workouts, complete nutrition guides, and a 12-week program you can do anywhere — home, gym, or hotel. No fluff. No wasted time."*
+> *"Echelon Form's Efficiency-First framework gives you science-backed HIIT workouts, complete nutrition guides, and a 12-week program you can do anywhere — home, gym, or hotel. No fluff. No wasted time."*
 
 **[0:15–0:20] CTA**
 > *"Start free or unlock the full library for $14.99 a month. Tap now."*
@@ -128,7 +128,7 @@
 ### Campaign Hierarchy
 
 ```
-VantageFit YouTube Ads
+Echelon Form YouTube Ads
 ├── Brand Awareness (Broad)
 │   ├── Targeting: Interest + keywords (broad match)
 │   ├── Bid strategy: CPM (viewability focus)

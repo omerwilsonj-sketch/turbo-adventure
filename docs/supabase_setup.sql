@@ -1,4 +1,4 @@
--- VantageFit Supabase Schema Setup
+-- Echelon Form Supabase Schema Setup
 
 -- 1. EXTENSIONS
 create extension if not exists "uuid-ossp";

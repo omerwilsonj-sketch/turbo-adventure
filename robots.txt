@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vantagefit.cto.ai/sitemap.xml
+Sitemap: https://echelonform.cto.ai/sitemap.xml

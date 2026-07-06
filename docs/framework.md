@@ -1,4 +1,4 @@
-# VantageFit — Efficiency-First Fitness Framework
+# Echelon Form — Efficiency-First Fitness Framework
 
 > **Science-backed fitness for everyone — from busy professionals to everyday movers. Results that fit your life.**
 
@@ -18,7 +18,7 @@
 
 ## 0. Tier Structure Overview
 
-VantageFit serves a broad audience through a tiered offering. The core workout and nutrition library is shared across all tiers — what changes is the level of support, personalization, and accountability.
+Echelon Form serves a broad audience through a tiered offering. The core workout and nutrition library is shared across all tiers — what changes is the level of support, personalization, and accountability.
 
 ### Tier Comparison
 
@@ -47,7 +47,7 @@ VantageFit serves a broad audience through a tiered offering. The core workout a
 
 **For anyone who wants effective, efficient workouts without coaching or accountability — just the tools.**
 
-The Go tier provides full read-only access to the VantageFit workout and nutrition library. Think of it as a **curated, science-backed fitness playbook** you run yourself.
+The Go tier provides full read-only access to the Echelon Form workout and nutrition library. Think of it as a **curated, science-backed fitness playbook** you run yourself.
 
 #### What Go Users Get
 - ✅ **Complete 12-week HIIT curriculum** (§2) — all 36 sessions, ready to follow
@@ -192,7 +192,7 @@ Every minute of training and every meal must earn its place. No junk volume, no 
 
 ## 3. Comprehensive Nutrition Guidelines
 
-### 3.1 The VantageFit Macro Framework
+### 3.1 The Echelon Form Macro Framework
 
 **Goal:** Maximum results per meal. No counting crumbs. **Data-driven, but pragmatic.**
 
@@ -215,7 +215,7 @@ Then multiply by **Activity Factor**:
 |---|---|---|
 | **Sedentary** (desk job, no exercise) | 1.2 | No training days |
 | **Light** (1–2 days/week) | 1.375 | Phase 1 start |
-| **Moderate** (3 days/week VantageFit) | 1.55 | Phase 2+ |
+| **Moderate** (3 days/week Echelon Form) | 1.55 | Phase 2+ |
 | **Very Active** (daily + steps) | 1.725 | Premium clients |
 
 #### Step 2: Set Macros Based on Goal
@@ -415,6 +415,6 @@ The library covers 7 movement categories: Squat, Hinge, Upper Body Push, Upper B
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 1.0 | 2026-06-24 | VantageFit Strategist | Initial release — full 12-week curriculum + nutrition guidelines |
-| 1.1 | 2026-06-24 | VantageFit Strategist | Added 🟢 **Go tier** — self-serve library model for broader audience; updated tier structure overview; added Go weekly rhythm template |
-| 1.2 | 2026-06-26 | VantageFit Strategist | Expanded Appendix §6: linked new exercise_library.md (52 exercises with detailed cues), expanded quick-reference table |
+| 1.0 | 2026-06-24 | Echelon Form Strategist | Initial release — full 12-week curriculum + nutrition guidelines |
+| 1.1 | 2026-06-24 | Echelon Form Strategist | Added 🟢 **Go tier** — self-serve library model for broader audience; updated tier structure overview; added Go weekly rhythm template |
+| 1.2 | 2026-06-26 | Echelon Form Strategist | Expanded Appendix §6: linked new exercise_library.md (52 exercises with detailed cues), expanded quick-reference table |

@@ -1,4 +1,4 @@
-# VantageFit Exercise Library — Detailed Coaching Cues
+# Echelon Form Exercise Library — Detailed Coaching Cues
 
 > **Purpose:** Foundation for the workout template engine, in-app video demonstrations, and coach training material. Designed for Phase 3 video library expansion.
 >
@@ -752,4 +752,4 @@ For travel, limited equipment, or injury — find a replacement.
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 1.0 | 2026-06-26 | VantageFit Strategist | Initial release — 52 exercises with detailed coaching cues across 7 categories, tiered by difficulty, with substitution matrix |
+| 1.0 | 2026-06-26 | Echelon Form Strategist | Initial release — 52 exercises with detailed coaching cues across 7 categories, tiered by difficulty, with substitution matrix |

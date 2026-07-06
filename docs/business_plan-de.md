@@ -1,4 +1,4 @@
-# VantageFit Businessplan
+# Echelon Form Businessplan
 
 ### Leistungsversprechen
 Befähigung von vielbeschäftigten Professionals und gesundheitsbewussten Einzelpersonen, ihre Gesundheit durch ein "Efficiency-First" Fitness-Framework zurückzugewinnen – eine Kombination aus datenbasierter Ernährung, 30-minütigen HIIT-Workouts und digitaler 24/7-Verantwortlichkeit.
@@ -8,9 +8,9 @@ Befähigung von vielbeschäftigten Professionals und gesundheitsbewussten Einzel
 - Sekundär: Allgemeine Fitness-Interessierte, die strukturierte, zeiteffiziente HIIT-Programme suchen.
 
 ### Erlösmodell
-- VantageFit Go (£14,99/Mo.): Zugang zur digitalen Bibliothek. Selbstgeführte Workouts und Ernährungsleitfäden.
-- VantageFit Core (£49/Mo.): Vollständige digitale Mitgliedschaft. App-Zugang + wöchentliches Gruppen-Coaching + Accountability.
-- VantageFit VIP (£249/Mo.): 1-zu-1 VIP-Coaching. Individuelle Makros + dedizierter Performance-Coach + wöchentliche Video-Check-ins.
+- Echelon Form Go (£14,99/Mo.): Zugang zur digitalen Bibliothek. Selbstgeführte Workouts und Ernährungsleitfäden.
+- Echelon Form Core (£49/Mo.): Vollständige digitale Mitgliedschaft. App-Zugang + wöchentliches Gruppen-Coaching + Accountability.
+- Echelon Form VIP (£249/Mo.): 1-zu-1 VIP-Coaching. Individuelle Makros + dedizierter Performance-Coach + wöchentliche Video-Check-ins.
 
 ### KPIs
 - MRR (Monatlich wiederkehrender Umsatz): Skalierung auf die ersten 5.000 $.

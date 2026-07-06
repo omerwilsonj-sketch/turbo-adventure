@@ -1,7 +1,7 @@
-# VantageFit App Architecture Design
+# Echelon Form App Architecture Design
 
 ## 1. Executive Summary
-The VantageFit mobile application is designed to provide a high-performance fitness experience for busy professionals. The architecture prioritizes efficiency, scalability, and cross-platform compatibility (iOS/Android) to align with the "Efficiency-First" fitness framework.
+The Echelon Form mobile application is designed to provide a high-performance fitness experience for busy professionals. The architecture prioritizes efficiency, scalability, and cross-platform compatibility (iOS/Android) to align with the "Efficiency-First" fitness framework.
 
 ## 2. Tech Stack Selection
 - **Framework:** React Native (Expo)

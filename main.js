@@ -1,4 +1,4 @@
-// VantageFit Landing Page — Interactive Behaviors
+// Echelon Form Landing Page — Interactive Behaviors
 
 (function() {
   'use strict';

@@ -1,4 +1,4 @@
-# Plan de Negocio VantageFit
+# Plan de Negocio Echelon Form
 
 ### Propuesta de Valor
 Empoderar a profesionales ocupados e individuos preocupados por su salud para que reclamen su bienestar a través de un marco de fitness "Efficiency-First", combinando nutrición basada en datos, entrenamientos de alta intensidad de 30 minutos y responsabilidad digital las 24 horas, los 7 días de la semana.
@@ -8,9 +8,9 @@ Empoderar a profesionales ocupados e individuos preocupados por su salud para qu
 - Secundario: Entusiastas del fitness en general que buscan programas HIIT estructurados y eficientes en tiempo.
 
 ### Modelo de Ingresos
-- VantageFit Go (£14.99/mes): Acceso a la Biblioteca Digital. Entrenamientos autodirigidos y guías de nutrición.
-- VantageFit Core (£49/mes): Membresía Digital Completa. Acceso a la aplicación + Coaching grupal semanal + Responsabilidad.
-- VantageFit VIP (£249/mes): Coaching VIP 1 a 1. Macros personalizados + Entrenador de rendimiento dedicado + Check-ins semanales por video.
+- Echelon Form Go (£14.99/mes): Acceso a la Biblioteca Digital. Entrenamientos autodirigidos y guías de nutrición.
+- Echelon Form Core (£49/mes): Membresía Digital Completa. Acceso a la aplicación + Coaching grupal semanal + Responsabilidad.
+- Echelon Form VIP (£249/mes): Coaching VIP 1 a 1. Macros personalizados + Entrenador de rendimiento dedicado + Check-ins semanales por video.
 
 ### KPIs
 - MRR (Ingresos Recurrentes Mensuales): Escalar a los primeros $5k.

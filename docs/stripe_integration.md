@@ -1,7 +1,7 @@
 # Stripe-Supabase Subscription Integration
 
 ## Overview
-This document outlines the architecture for syncing Stripe subscription status with the VantageFit Supabase user profiles.
+This document outlines the architecture for syncing Stripe subscription status with the Echelon Form Supabase user profiles.
 
 ## 1. Stripe Webhook Configuration
 To enable automatic subscription syncing, a Stripe Webhook must be configured to point to a Supabase Edge Function.
@@ -18,7 +18,7 @@ The Edge Function (`stripe-webhook`) should handle the incoming Stripe events an
 ### Logic Flow:
 1. Verify the Stripe webhook signature.
 2. Extract the `client_reference_id` (which should be the Supabase `user_id`) from the `checkout.session.completed` event.
-3. Map the Stripe Price ID or Product ID to the corresponding VantageFit tier (`go`, `core`, `vip`).
+3. Map the Stripe Price ID or Product ID to the corresponding Echelon Form tier (`go`, `core`, `vip`).
 4. Update the user's profile in Supabase:
    ```sql
    UPDATE profiles SET subscription_tier = 'core' WHERE id = 'user_id';
