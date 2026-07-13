@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Echelon Form",
+    "slug": "echelon-form",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/branding/logo.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#050505",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+        "expo-secure-store",
+        [
+          "react-native-purchases",
+          {
+            "apiKey": "$EXPO_PUBLIC_REVENUECAT_API_KEY",
+            "usesStoreKit2IfAvailable": true
+          }
+        ]
+      ]
+  }
+}
